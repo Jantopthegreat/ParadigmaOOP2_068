@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SolveMultiWaris", "SolveMul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgramNoOverriding", "ProgramNoOverriding\ProgramNoOverriding.vcxproj", "{70E66D08-1C2C-45BA-BD9B-A0B9D213FDDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewaris", "noPewaris\noPewaris.vcxproj", "{88743E8D-035E-4E80-9763-66F5D18C7983}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{70E66D08-1C2C-45BA-BD9B-A0B9D213FDDD}.Release|x64.Build.0 = Release|x64
 		{70E66D08-1C2C-45BA-BD9B-A0B9D213FDDD}.Release|x86.ActiveCfg = Release|Win32
 		{70E66D08-1C2C-45BA-BD9B-A0B9D213FDDD}.Release|x86.Build.0 = Release|Win32
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Debug|x64.ActiveCfg = Debug|x64
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Debug|x64.Build.0 = Debug|x64
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Debug|x86.ActiveCfg = Debug|Win32
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Debug|x86.Build.0 = Debug|Win32
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x64.ActiveCfg = Release|x64
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x64.Build.0 = Release|x64
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x86.ActiveCfg = Release|Win32
+		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
