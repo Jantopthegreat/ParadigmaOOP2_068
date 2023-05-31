@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgramNoOverriding", "Prog
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewaris", "noPewaris\noPewaris.vcxproj", "{88743E8D-035E-4E80-9763-66F5D18C7983}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiwaris2", "Multiwaris2\Multiwaris2.vcxproj", "{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x64.Build.0 = Release|x64
 		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x86.ActiveCfg = Release|Win32
 		{88743E8D-035E-4E80-9763-66F5D18C7983}.Release|x86.Build.0 = Release|Win32
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Debug|x64.ActiveCfg = Debug|x64
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Debug|x64.Build.0 = Debug|x64
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Debug|x86.Build.0 = Debug|Win32
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Release|x64.ActiveCfg = Release|x64
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Release|x64.Build.0 = Release|x64
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Release|x86.ActiveCfg = Release|Win32
+		{E829B2D5-D175-4B29-B07F-3E77D19F0B5E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
